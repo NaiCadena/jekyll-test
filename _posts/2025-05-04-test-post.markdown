@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "I'm learning Polish"
+date:   2025-05-04 12:59:00 +0200
+categories: languages
+---
+
+# My language journy 
+#### the difficulties of learning a new language 
+
+anything 
+
+- pronunciacion
+- casos
+![grill](/assets/images/grill.jpg)
