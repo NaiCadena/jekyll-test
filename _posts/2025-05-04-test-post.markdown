@@ -12,4 +12,4 @@ anything
 
 - pronunciacion
 - casos
-![grill](/assets/images/grill.jpg)
+![grill]({{ "/assets/images/grill.jpg" | relative_url}})
